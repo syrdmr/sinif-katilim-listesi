@@ -39,6 +39,8 @@ Sadece kendi ismini ekle, başkasının ismini silme veya düzenleme.
 
 Tebrikler!
 GitHub üzerinde ilk Fork, Commit ve Pull Request işlemini yaptın.
+
+Doğukan Zorlu Yönetim Bilişim Sistemleri
 -->
 
 
