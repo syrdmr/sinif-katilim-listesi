@@ -48,4 +48,6 @@ Doğukan Zorlu Yönetim Bilişim Sistemleri
 - ahmet selim ağünlü / 220218007
 - a/1
 - bkjbk /wdqda
+
+-Şiyar DEMİR YBS
   
